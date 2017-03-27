@@ -9,7 +9,7 @@ Projectgroep 6
 Groepsleden
 -	Jinxi Cheng		0915568
 -	Mehmet Sozen		0857181
--	Timonthy Brewster	?
+-	Timonthy Brewster	0832851
 -	Xander de Groot	0903272
 -	Kevin Bos		0878883
 Datum: 	13-2-2017
