@@ -1,0 +1,8 @@
+Basic emulator input
+Controlling the emulator is very similar to many common 3D video games. There are input options available using the keyboard, mouse, or Xbox controller. You control the emulator by directing the actions of a simulated user wearing a HoloLens. Your actions move that simulated user around and apps running in the emulator respond like they would on a real device.
+
+Walk forward, back, left, and right - Use the W,A,S, and D keys on your keyboard, or the left stick on an Xbox controller.
+Look up, down, left, and right - Click and drag the mouse, use the arrow keys on your keyboard, or the right stick on an Xbox controller.
+Air tap gesture - Right-click the mouse, press the Enter key on your keyboard, or use the A button on an Xbox controller.
+Bloom gesture - Press the Windows key or F2 key on your keyboard, or press the B button on an Xbox controller.
+Hand movement for scrolling - Hold the Alt key, hold the right mouse button, and drag the mouse up / down, or in an Xbox controller hold the right trigger and A button down and move the right stick up and down.
