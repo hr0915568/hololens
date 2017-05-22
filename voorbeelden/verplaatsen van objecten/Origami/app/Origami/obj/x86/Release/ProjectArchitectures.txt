@@ -1,0 +1,4 @@
+C:\Users\kevin\Downloads\workspace\Origami\app\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+C:\Users\kevin\Downloads\workspace\Origami\app\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86
+C:\Users\kevin\Downloads\workspace\Origami\app\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86
+C:\Users\kevin\Downloads\workspace\Origami\app\Origami\Origami.csproj;x86
