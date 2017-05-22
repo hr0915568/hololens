@@ -1,0 +1,14 @@
+  Even voor de volledigheid:
+
+
+- Er moet een webapi worden ingericht die de inventory vult van de applicatie (Timothy en Mehmet)
+    - hiervoor is nodig: 
+          1. Database + webapi (via C#)
+          2. welke data moet er in de database (dus waar bestaat een object model uit)
+          3. Hoe kan de api worden gekoppeld aan de hololens
+- Hoe kunnen objecten worden gemanipuleerd? (Jinxi) 
+        - Kleurtje geven aan een object
+        - Kan de grootte van een object worden aangepast?
+- inventory systeem (kevin)
+        - ontwerp + besturing
+        - inladen van producten
