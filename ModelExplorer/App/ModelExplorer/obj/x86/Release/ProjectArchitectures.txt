@@ -1,0 +1,4 @@
+C:\Users\Jinxi Cheng\workspace\hololens\ModelExplorer\App\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+C:\Users\Jinxi Cheng\workspace\hololens\ModelExplorer\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86
+C:\Users\Jinxi Cheng\workspace\hololens\ModelExplorer\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86
+C:\Users\Jinxi Cheng\workspace\hololens\ModelExplorer\App\ModelExplorer\ModelExplorer.csproj;x86

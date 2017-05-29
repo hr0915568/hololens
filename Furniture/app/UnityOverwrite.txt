@@ -7,9 +7,9 @@
 # Default behavior is to never overwrite files
 Furniture.sln: modified
 Furniture\App.cs: 957707518403A4B8209716C184B4EA0D
-Furniture\Furniture.csproj: 2FDF8E29815840E6CB3169B8E3EC9E6B
+Furniture\Furniture.csproj: modified
 Furniture\Furniture.csproj.user: modified
-Furniture\Package.appxmanifest: 85BFF49AED4706143DFDF4863FF63E8C
+Furniture\Package.appxmanifest: modified
 Furniture\project.json: 1D02BC64BAC0D041019673A1C4C51737
 Furniture\Assets\SplashScreen.scale-200.png: 60618416282ED104FD1473935716045D
 Furniture\Assets\Square150x150Logo.scale-200.png: E02834B4A5DFB97FF8E212C1CACBB084

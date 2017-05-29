@@ -81,15 +81,19 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\HoloToolkit-Gaze-210\Input\Scripts\CursorManager.cs" />
-    <Compile Include="Assets\HoloToolkit-Gaze-210\Input\Scripts\GazeManager.cs" />
-    <Compile Include="Assets\HoloToolkit-Gaze-210\Input\Scripts\GazeStabilizer.cs" />
-    <Compile Include="Assets\HoloToolkit-Gaze-210\Input\Scripts\GestureManager.cs" />
-    <Compile Include="Assets\HoloToolkit-Gaze-210\Utilities\Scripts\Billboard.cs" />
-    <Compile Include="Assets\HoloToolkit-Gaze-210\Utilities\Scripts\DirectionIndicator.cs" />
-    <Compile Include="Assets\HoloToolkit-Gaze-210\Utilities\Scripts\Interpolator.cs" />
-    <Compile Include="Assets\HoloToolkit-Gaze-210\Utilities\Scripts\SimpleTagalong.cs" />
-    <Compile Include="Assets\HoloToolkit-Gaze-210\Utilities\Scripts\Singleton.cs" />
+    <Compile Include="Assets\HoloToolkit\Input\Scripts\CursorFeedback.cs" />
+    <Compile Include="Assets\HoloToolkit\Input\Scripts\CursorManager.cs" />
+    <Compile Include="Assets\HoloToolkit\Input\Scripts\GazeManager.cs" />
+    <Compile Include="Assets\HoloToolkit\Input\Scripts\GazeStabilizer.cs" />
+    <Compile Include="Assets\HoloToolkit\Input\Scripts\GestureAction.cs" />
+    <Compile Include="Assets\HoloToolkit\Input\Scripts\GestureManager.cs" />
+    <Compile Include="Assets\HoloToolkit\Input\Scripts\HandGuidance.cs" />
+    <Compile Include="Assets\HoloToolkit\Input\Scripts\HandsManager.cs" />
+    <Compile Include="Assets\HoloToolkit\Utilities\Scripts\Billboard.cs" />
+    <Compile Include="Assets\HoloToolkit\Utilities\Scripts\DirectionIndicator.cs" />
+    <Compile Include="Assets\HoloToolkit\Utilities\Scripts\Interpolator.cs" />
+    <Compile Include="Assets\HoloToolkit\Utilities\Scripts\SimpleTagalong.cs" />
+    <Compile Include="Assets\HoloToolkit\Utilities\Scripts\Singleton.cs" />
     <Compile Include="Assets\Holograms\Support\AstroMan\SetRendererSettings.cs" />
     <Compile Include="Assets\Holograms\Support\Fitbox\Fitbox.cs" />
     <Compile Include="Assets\Holograms\Support\Fitbox\Interpolator.cs" />
@@ -99,16 +103,16 @@
     <Compile Include="Assets\Scripts\InteractibleManager.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Assets\HoloToolkit-Gaze-210\Utilities\Shaders\LambertianConfigurable.cginc" />
-    <None Include="Assets\HoloToolkit-Gaze-210\Utilities\Shaders\LambertianConfigurable.shader" />
-    <None Include="Assets\HoloToolkit-Gaze-210\Utilities\Shaders\LambertianConfigurableTransparent.shader" />
-    <None Include="Assets\HoloToolkit-Gaze-210\Utilities\Shaders\StandardFast.shader" />
-    <None Include="Assets\HoloToolkit-Gaze-210\Utilities\Shaders\UnlitConfigurable.cginc" />
-    <None Include="Assets\HoloToolkit-Gaze-210\Utilities\Shaders\UnlitConfigurable.shader" />
-    <None Include="Assets\HoloToolkit-Gaze-210\Utilities\Shaders\UnlitConfigurableTransparent.shader" />
-    <None Include="Assets\HoloToolkit-Gaze-210\Utilities\Shaders\VertexLitConfigurable.cginc" />
-    <None Include="Assets\HoloToolkit-Gaze-210\Utilities\Shaders\VertexLitConfigurable.shader" />
-    <None Include="Assets\HoloToolkit-Gaze-210\Utilities\Shaders\VertexLitConfigurableTransparent.shader" />
+    <None Include="Assets\HoloToolkit\Utilities\Shaders\LambertianConfigurable.cginc" />
+    <None Include="Assets\HoloToolkit\Utilities\Shaders\LambertianConfigurable.shader" />
+    <None Include="Assets\HoloToolkit\Utilities\Shaders\LambertianConfigurableTransparent.shader" />
+    <None Include="Assets\HoloToolkit\Utilities\Shaders\StandardFast.shader" />
+    <None Include="Assets\HoloToolkit\Utilities\Shaders\UnlitConfigurable.cginc" />
+    <None Include="Assets\HoloToolkit\Utilities\Shaders\UnlitConfigurable.shader" />
+    <None Include="Assets\HoloToolkit\Utilities\Shaders\UnlitConfigurableTransparent.shader" />
+    <None Include="Assets\HoloToolkit\Utilities\Shaders\VertexLitConfigurable.cginc" />
+    <None Include="Assets\HoloToolkit\Utilities\Shaders\VertexLitConfigurable.shader" />
+    <None Include="Assets\HoloToolkit\Utilities\Shaders\VertexLitConfigurableTransparent.shader" />
     <None Include="Assets\Resources\Shaders\SpecularHighlight.shader" />
     <None Include="Assets\Resources\Shaders\StandardFastBackFaceCulling.shader" />
     <None Include="Assets\Resources\Shaders\UITransparent.shader" />

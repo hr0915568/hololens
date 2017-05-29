@@ -206,12 +206,12 @@
 
   <ItemGroup>
     <ProjectReference Include="C:\Users\Jinxi Cheng\workspace\hololens\Furniture\app\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj">
-      <Project>{b55d4102-bd6e-471b-a837-bd393124039f}</Project>
+      <Project>{ae83e722-406b-4f88-8337-ff6f9d95e15e}</Project>
       <Name>Assembly-CSharp</Name>
       <Private>False</Private>
     </ProjectReference>
     <ProjectReference Include="C:\Users\Jinxi Cheng\workspace\hololens\Furniture\app\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj">
-      <Project>{5e352c58-ea13-46ec-938f-152fd6e9b85a}</Project>
+      <Project>{e23a2c72-5507-4044-82fe-544be070b6ef}</Project>
       <Name>Assembly-CSharp-firstpass</Name>
       <Private>False</Private>
     </ProjectReference>
