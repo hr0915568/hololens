@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testHolo", "testHolo.csproj", "{53EF1FAC-C1C7-E3D4-19F7-66F084879E6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testHolo.Editor", "testHolo.Editor.csproj", "{A7586109-7117-6FE2-6C4C-EEB3E8807F6B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53EF1FAC-C1C7-E3D4-19F7-66F084879E6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53EF1FAC-C1C7-E3D4-19F7-66F084879E6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53EF1FAC-C1C7-E3D4-19F7-66F084879E6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53EF1FAC-C1C7-E3D4-19F7-66F084879E6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7586109-7117-6FE2-6C4C-EEB3E8807F6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7586109-7117-6FE2-6C4C-EEB3E8807F6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7586109-7117-6FE2-6C4C-EEB3E8807F6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7586109-7117-6FE2-6C4C-EEB3E8807F6B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

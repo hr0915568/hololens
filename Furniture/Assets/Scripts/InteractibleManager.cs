@@ -1,6 +1,6 @@
-﻿using Academy.HoloToolkit.Unity;
+﻿
 using UnityEngine;
-
+using HoloToolkit.Unity;
 /// <summary>
 /// InteractibleManager keeps tracks of which GameObject
 /// is currently in focus.

@@ -131,7 +131,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="C:\Users\Jinxi Cheng\workspace\hololens\Furniture\app\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj">
-      <Project>{296456f6-9a9e-4b79-9314-fa4f8e75ea7b}</Project>
+      <Project>{f521d9ea-231a-4944-9b32-5c6af931675d}</Project>
       <Name>Assembly-CSharp-firstpass</Name>
     </ProjectReference>
     <Reference Include="UnityEngine">
